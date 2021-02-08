@@ -1,3 +1,0 @@
-title=writetest
-author=pat
-orientation=portrait

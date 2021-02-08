@@ -1,9 +1,9 @@
 ## Kivy / KivyMD Android Permission for Read/Write in External Storage
 
 
-This Creates a **Folder** in 
+This Creates a **Folder named KT** in 
 
 > **/storage/emulated/0**
 
- and creates a **txt file in that folder**
+ and creates a **testfile.txt file in that folder**
 

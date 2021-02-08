@@ -1,6 +1,9 @@
+## Kivy / KivyMD Android Permission for Read/Write in External Storage
 
-permissiontest with Kivy and Android
 
-this will ask for permissions to write a file to primary storage (/storage/emulated/0/testfile)
+This Creates a **Folder** in 
 
+> **/storage/emulated/0**
+
+ and creates a **txt file in that folder**
 

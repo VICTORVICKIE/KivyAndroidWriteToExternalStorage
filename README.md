@@ -1,7 +1,7 @@
 ## Kivy / KivyMD Android Permission for Read/Write in External Storage
 
 
-This Creates a **Folder named KT** in 
+The "main.py" Script Creates a **Folder named KT** in 
 
 > **/storage/emulated/0**
 
